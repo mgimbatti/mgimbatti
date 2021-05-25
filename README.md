@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Marcos 👋 <h3/>
+### Hi there, I'm Marcos 👋.
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/76441240/119570514-9b145380-bd86-11eb-811a-2e7fe5f58b5f.gif" width="500" height="320" />
 
 
