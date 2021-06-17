@@ -13,19 +13,23 @@ const marcos = {
   },
 }
 ```
-- 🔭 I’m currently working on **[My House App](https://central.vercel.app)**
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<h2 align="left">Projects</h2>
 
-<!--
-**mgimbatti/mgimbatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>My House App</h3>
 
-Here are some ideas to get you started:
+<h4>Click on image and go to video promo!</h4>
+<a href="https://www.youtube.com/watch?v=wGsvqJFBktY"
+target="_blank"><img src="http://img.youtube.com/vi/wGsvqJFBktY/0.jpg" 
+alt="MyHouseApp" width="480" height="360" border="10" /></a>
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <b>Find your next home in our real estate app.</b><br/>
+    Developed with 5-member-team with Agile Methodologies (SCRUM and Github Boards). We used front-end and back-end technologies such as React, Redux, Node.js, Express, Sequelize and Postgress, and incorporated, Auth0 authentication and 2FA, Google Geocoding API, Mapbox API, Mercado Pago payment plataform and Administration Panel.
+  <br />
+  <a href="https://my-house-app-one.vercel.app/" target="_blank"><b>Visit our site</b></a> --> repository <a href="https://github.com/myhouseapp/client" target="_blank">client</a> & </a><a href="https://github.com/my-house-app/api" target="_blank">server</a>
+  </p>
