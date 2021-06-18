@@ -20,19 +20,18 @@ const marcos = {
 <h2 align="left">Projects</h2>
 
 <h3>My House App</h3>
-
-<h4>🎥 Click on image and go to video promo!</h4>
+  <p>
+    Developed in a 5-member-team using Agile Methodologies (SCRUM and Github Boards). 
+  </p><p>
+    Technologies applied: React, Redux, Node.js, Express, Sequelize and Postgres.
+  </p><p>
+    Other libraries: Auth0, Google Geocoding API, Mapbox API, MercadoPago and Nodemailer.
+  </p><p>
+  <h4>🎥 Click on image and go to video promo!</h4>
 <a href="https://www.youtube.com/watch?v=wGsvqJFBktY"
 target="_blank"><img src="./images/myhouseapp.png" 
 alt="MyHouseApp" width="500" height="auto" border="10" /></a>
 <br></br>
-  <p>
-    Developed in a 5-member-team using Agile Methodologies (SCRUM and Github Boards). 
-  </p><p>
-    Technologies applied:React, Redux, Node.js, Express, Sequelize and Postgres.
-  </p><p>
-    Other libraries: Auth0, Google Geocoding API, Mapbox API, MercadoPago and Nodemailer.
-  </p><p>
   Go to live version <a href="https://my-house-app-one.vercel.app/" target="_blank"><b>here</b></a>!
   Repositories: <a href="https://github.com/myhouseapp/client" target="_blank">Front-end</a> & </a><a href="https://github.com/my-house-app/api" target="_blank">Back-end</a>
   </p>
